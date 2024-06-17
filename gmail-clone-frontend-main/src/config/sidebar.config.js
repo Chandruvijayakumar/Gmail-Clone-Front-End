@@ -5,7 +5,6 @@ import {
   InsertDriveFileOutlined,
   DeleteOutlined,
   MailOutlined,
-  Mail,
 } from "@mui/icons-material";
 
 export const SIDEBAR_DATA = [
