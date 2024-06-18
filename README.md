@@ -1,4 +1,4 @@
-# Gmail-Clone
+# Gmail-Clone-Front-End
 
 The Gmail-Clone project is a web application designed to replicate the core functionalities of Gmail. This project allows users to send, receive, and organize emails, providing a familiar interface and user experience.
 
