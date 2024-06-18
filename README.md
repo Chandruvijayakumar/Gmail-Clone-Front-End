@@ -94,6 +94,7 @@ The Gmail-Clone project is a web application designed to replicate the core func
 - Database: MongoDB (MongoDB Atlas)
 - Authentication: JWT (JSON Web Tokens)
 - Styling: CSS3
+- Material UI
 
 ## Contributing
 
