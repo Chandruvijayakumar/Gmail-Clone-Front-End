@@ -1,5 +1,8 @@
+// api.js
 import axios from "axios";
-const API_URL = "http://localhost:7000";
+
+// Use the API URL from the environment variable
+const API_URL = process.env.REACT_APP_API_URL;
 
 const API_GMAIL = async (urlObject, payload, type) => {
   return await axios({
