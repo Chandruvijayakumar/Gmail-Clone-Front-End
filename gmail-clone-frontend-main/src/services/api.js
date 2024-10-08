@@ -1,7 +1,5 @@
-// api.js
 import axios from "axios";
 
-// Use the Render deployment link
 const API_URL = "https://gmail-clone-back-end-hdsg.onrender.com";
 
 const API_GMAIL = async (urlObject, payload, type) => {
